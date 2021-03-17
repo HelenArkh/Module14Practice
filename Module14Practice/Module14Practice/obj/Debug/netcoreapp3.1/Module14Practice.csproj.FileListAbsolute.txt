@@ -1,0 +1,13 @@
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\bin\Debug\netcoreapp3.1\Module14Practice.exe
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\bin\Debug\netcoreapp3.1\Module14Practice.deps.json
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\bin\Debug\netcoreapp3.1\Module14Practice.runtimeconfig.json
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\bin\Debug\netcoreapp3.1\Module14Practice.runtimeconfig.dev.json
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\bin\Debug\netcoreapp3.1\Module14Practice.dll
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\bin\Debug\netcoreapp3.1\Module14Practice.pdb
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\obj\Debug\netcoreapp3.1\Module14Practice.csprojAssemblyReference.cache
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\obj\Debug\netcoreapp3.1\Module14Practice.AssemblyInfoInputs.cache
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\obj\Debug\netcoreapp3.1\Module14Practice.AssemblyInfo.cs
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\obj\Debug\netcoreapp3.1\Module14Practice.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\obj\Debug\netcoreapp3.1\Module14Practice.dll
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\obj\Debug\netcoreapp3.1\Module14Practice.pdb
+D:\VS_Projects\Module14Practice\Module14Practice\Module14Practice\obj\Debug\netcoreapp3.1\Module14Practice.genruntimeconfig.cache
